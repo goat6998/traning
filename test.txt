@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 8
+=======
+9
+>>>>>>> feature/fix-A
