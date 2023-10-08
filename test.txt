@@ -1,6 +1,2 @@
-test
-<<<<<<< HEAD
-8
-=======
-9
->>>>>>> feature/fix-A
+asdf
+10
